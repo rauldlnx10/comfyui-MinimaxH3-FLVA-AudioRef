@@ -8,7 +8,7 @@ MiniMax H3's `ref2va` task supports reference conditions (images, videos, audio)
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/rauldlnx10/ComfyUI-MiniMaxH3-Separate.git
+git clone https://github.com/rauldlnx10/comfyui-MinimaxH3-FLVA-AudioRef.git
 ```
 
 Restart ComfyUI. No extra dependencies — everything used ships with ComfyUI.
